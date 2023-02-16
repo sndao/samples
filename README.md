@@ -1,4 +1,5 @@
 # samples
 Samples for default configs, boilerplate, etc.
 
-- [redis.conf](https://raw.githubusercontent.com/redis/redis/7.0/redis.conf) 
+- [redis.conf (7.0)](https://raw.githubusercontent.com/redis/redis/7.0/redis.conf) 
+  - [https://redis.io/docs/management/config/](https://redis.io/docs/management/config/)
